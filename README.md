@@ -1,6 +1,6 @@
 # sphinx-action-test
 
-![CI](https://github.com/ammaraskar/sphinx-action-test/workflows/CI/badge.svg)
+![CI](https://github.com/MichaelCurrin/sphinx-action-test/workflows/CI/badge.svg)
 
 ## Advanced Features Implemented
 
@@ -15,5 +15,4 @@ an artifact for download.
 
 ### Automatically publishing gh-pages
 
-Changes made in the `docs/` folder are automatically published to
-http://ammaraskar.github.io/sphinx-action-test/
+Changes made in the `docs/` folder are automatically published.
